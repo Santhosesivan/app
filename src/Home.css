@@ -1,0 +1,18 @@
+.navBar,
+.menuContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navBar {
+  padding: 30px;
+}
+.menuContainer p {
+  margin: 0 20px;
+}
+.productContainer {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
